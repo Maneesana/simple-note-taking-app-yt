@@ -1,6 +1,6 @@
 ## Simple Note Taking App
 
-A very simple note taking app using HTML,CSS and Javascript using Vite. It consists of features to perform simple CRUD operations on localstorage and UIs.
+A very simple note taking app using HTML,CSS,Javascript and Vite. It consists of features to perform simple CRUD operations on localstorage and UIs.
 
 ## Setup
 
